@@ -1,0 +1,19 @@
+# virtual environment
+venv/
+
+# model weights
+*.pth
+*.pt
+*.h5
+*.ckpt
+
+# python cache
+__pycache__/
+*.pyc
+
+# jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
